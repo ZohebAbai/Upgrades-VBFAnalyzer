@@ -12,6 +12,7 @@ Check out code:
 ```
 git clone https://github.com/ZohebAbai/Upgrades-VBFAnalyzer.git
 ```
+Put you MiniAod.root file inside `test` file.
 
 Compile:
 ```

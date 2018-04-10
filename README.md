@@ -1,4 +1,4 @@
-Analyzer to process PhaseII samples for upgrade studies. 
+Analyzer to process PhaseII VBFHbb samples for upgrade studies. 
 
 Instructions to check out code and run:
 Set up CMSSW area:

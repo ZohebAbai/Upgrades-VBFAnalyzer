@@ -27,8 +27,8 @@ process.ana = cms.EDAnalyzer("VBFAnalyzer",
     genparToken  = cms.InputTag("prunedGenParticles"),
     subjets_ak8  = cms.InputTag("slimmedJets"),
     ak4ptmin     = cms.double(50.),
-    ak4etamax    = cms.double(5.), 
-    ak8ptmin     = cms.double(150.),
+    ak4etamax    = cms.double(3.5), 
+    ak8ptmin     = cms.double(200.),
     ak8etamax    = cms.double(3.5),
 )
 

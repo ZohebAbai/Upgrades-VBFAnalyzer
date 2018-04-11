@@ -12,7 +12,7 @@ Check out code:
 ```
 git clone https://github.com/ZohebAbai/Upgrades-VBFAnalyzer.git
 ```
-Put you MiniAod.root file inside `test` folder.
+Put you `MiniAod.root` file inside `test` folder.
 
 Compile:
 ```
@@ -34,7 +34,7 @@ EDIT analyze.py as required for your analysis.
 
 python analyze.py
 ```
-This will create a ROOT file named as VBF_M125_PU0.root containing plots.
+This will create a ROOT file named as `VBF_M125_PU0.root` containing plots.
 It will also mention the efficiency of your signal samples.
 ```
 EDIT plot.py as required.
